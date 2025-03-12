@@ -39,11 +39,6 @@ Run the main detection script on a sample image:
 python detect.py --image path/to/sample.jpg
 ```
 
-For real-time video processing from a webcam:  
-```bash
-python detect.py --video 0
-```
-
 ### Model Inference  
 We provide a pre-trained model (`model.pth`). You can use it directly for inference:  
 ```python
