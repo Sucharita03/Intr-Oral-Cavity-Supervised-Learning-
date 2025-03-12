@@ -9,7 +9,7 @@ This repository contains the code and resources associated with the paper:
 
 ## 📌 Overview  
 
-In this work, we propose a computer vision-based approach for intraoral cavity detection using portable optoelectronic devices. The system integrates real-time image processing and machine learning techniques to enhance oral healthcare diagnostics. This repository includes the implementation of our detection pipeline, pre-trained models, and necessary scripts for dataset preprocessing and evaluation.  
+In this work, we propose a computer vision-based approach for intraoral cavity detection using portable optoelectronic devices. The system integrates real-time image processing and Deep learning techniques to enhance oral healthcare diagnostics. This repository includes the implementation of our detection pipeline, pre-trained models, and necessary scripts for dataset preprocessing and evaluation.  
 
 ## ⚙️ Installation  
 
@@ -89,5 +89,3 @@ We welcome contributions to improve this project. Please follow the standard pul
 ## ⚠️ License  
 This project is licensed under the MIT License. See the `LICENSE` file for details.  
 ```
-
-Would you like to customize any section further, such as adding more details on the dataset, model architecture, or evaluation metrics?
